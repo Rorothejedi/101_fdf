@@ -1,1 +1,1 @@
-[Screenshot fdf](https://raw.githubusercontent.com/Rorothejedi/fdf/img/img2.tiff)
+[Screenshot fdf](https://raw.githubusercontent.com/Rorothejedi/fdf/master/img/img2.tiff)
