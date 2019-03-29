@@ -8,7 +8,7 @@ Projet de programmation graphique, mettant en avant le placement de points dans 
 
 ## Fonctionnalités
 
-- 3 types de projections (isométrique, cavalière et oblique).
+- 3 types de projections ([isométrique](https://github.com/Rorothejedi/101_fdf/blob/master/README.md#projection-isom%C3%A9trique), cavalière et oblique).
 - Déplacement avec les flèches du clavier.
 - Gestion de la sensibilité des déplacement.
 - Gestion des couleurs (7 différentes) en fonction de l'axe Z.
