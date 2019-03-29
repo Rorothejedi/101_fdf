@@ -36,15 +36,18 @@ $> ./fdf [target_file]
 ### Projection isométrique
 
 ![Image 0 fdf](https://github.com/Rorothejedi/101_fdf/blob/master/img_project/img_project_0.png)
+Source : [Wikipédia - perspective isométrique](https://fr.wikipedia.org/wiki/Perspective_isom%C3%A9trique)
 
 ------------------------------------
 
 ### Projection cavalière
 
 ![Image 1 fdf](https://github.com/Rorothejedi/101_fdf/blob/master/img_project/img_project_1.png)
+Source : [Wikipédia - perspective cavalière](https://fr.wikipedia.org/wiki/Perspective_cavali%C3%A8re)
 
 ------------------------------------
 
 ### Projection oblique
 
 ![Image 2 fdf (A rajouter)]()
+Source : [Wikipédia - projection oblique](https://en.wikipedia.org/wiki/Oblique_projection#Cabinet_projection)
