@@ -49,5 +49,5 @@ Source : [Wikipédia - perspective cavalière](https://fr.wikipedia.org/wiki/Per
 
 ### Projection oblique
 
-![Image 2 fdf (A rajouter)]()
+![Image 2 fdf](https://github.com/Rorothejedi/101_fdf/blob/master/img_project/img_project_2.png)
 Source : [Wikipédia - projection oblique](https://en.wikipedia.org/wiki/Oblique_projection#Cabinet_projection)
