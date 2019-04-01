@@ -29,6 +29,27 @@ $> make
 $> ./fdf [target_file]
 ```
 
+### Exemple de contenu du fichier cible :
+
+```
+$> cat maps/42.fdf
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
+0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+0  0 10 10  0  0 10 10  0  0  0  0  0  0  0 10 10  0  0
+0  0 10 10 10 10 10 10  0  0  0  0 10 10 10 10  0  0  0
+0  0  0 10 10 10 10 10  0  0  0 10 10  0  0  0  0  0  0
+0  0  0  0  0  0 10 10  0  0  0 10 10  0  0  0  0  0  0
+0  0  0  0  0  0 10 10  0  0  0 10 10 10 10 10 10  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+```
+Chaque nombre correspond à un point dans l'espace :
+ - La position horizontale correspond à son abscisse.
+ - La position verticale correspond à son ordonneé.
+ - La valeur correspond à son altitude.
+
 > Realisé et testé sur MacOs Sierra V.10.12.6
 
 ## Images du projet
